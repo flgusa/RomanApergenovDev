@@ -16,7 +16,7 @@ Looking for **remote .NET positions** in the USA
 ## 🚀 Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| Task Tracker API | REST API for managing tasks (coming soon) | ASP.NET Core, EF Core, SQLite |
+| [Task Tracker API](https://github.com/flgusa/TaskTracker-API) | REST API для задач | .NET 8, EF Core 8, SQLite, Swagger |
 | Weather Forecast App | Console app with OpenWeather API (coming soon) | C#, HttpClient, JSON |
 | Personal Blog | Simple blog with CRUD operations (coming soon) | ASP.NET Core MVC, SQL |
 
