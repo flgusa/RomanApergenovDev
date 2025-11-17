@@ -18,7 +18,7 @@ Looking for **remote .NET positions** in the USA
 |---------|-------------|------------|
 | [Task Tracker API](https://github.com/flgusa/TaskTracker-API) | REST API для задач | .NET 8, EF Core 8, SQLite, Swagger |
 | [Weather Forecast App](https://github.com/flgusa/WeatherApp) | Погода через OpenWeather API | C#, HttpClient, JSON |
-| Personal Blog | Simple blog with CRUD operations (coming soon) | ASP.NET Core MVC, SQL |
+| [Personal Blog](https://github.com/flgusa/PersonalBlog) | Блог с CRUD | ASP.NET Core MVC, EF Core, SQL |
 
 *(Projects under development — check back soon!)*
 
